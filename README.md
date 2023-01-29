@@ -1,4 +1,4 @@
-## Oieee eu sou a Karen Veras estudante de programação!
+## Oieee eu sou a Karen Veras estudante de programação! Bem vindo aos meus projetos! 😁
 
 <div align="center">
   <a href="https://github.com/karenveras">
